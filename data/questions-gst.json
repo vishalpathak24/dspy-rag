@@ -1,0 +1,227 @@
+[
+    {
+        "chapter": 1,
+        "questions": [
+            {
+                "question": "What is GST, and why is it considered the biggest indirect tax reform in India?",
+                "answer": "GST is a single tax levied on the supply of goods and services, simplifying and unifying the indirect tax system."
+            },
+            {
+                "question": "What are the two components of GST in India?",
+                "answer": "Central Goods and Services Tax (CGST) and State Goods and Services Tax (SGST)."
+            },
+            {
+                "question": "When was GST implemented in India?",
+                "answer": "GST was implemented on July 1, 2017."
+            },
+            {
+                "question": "Explain the concept of destination-based taxation in GST.",
+                "answer": "GST is levied at the place where goods or services are consumed, not where they are produced."
+            },
+            {
+                "question": "What constitutional amendment introduced GST in India?",
+                "answer": "The 101st Constitutional Amendment Act, 2016."
+            },
+            {
+                "question": "What are the major taxes subsumed under GST?",
+                "answer": "Excise duty, service tax, VAT, and other indirect taxes."
+            },
+            {
+                "question": "What are the challenges in designing and implementing GST in India?",
+                "answer": "Challenges include disputes over origin-based vs. destination-based taxation and compensating states for revenue loss."
+            },
+            {
+                "question": "What is the significance of the GST Council?",
+                "answer": "The GST Council makes recommendations on key aspects like tax rates, exemptions, and thresholds."
+            },
+            {
+                "question": "What is reverse charge mechanism (RCM) in GST?",
+                "answer": "Under RCM, the recipient of goods or services is liable to pay GST instead of the supplier."
+            },
+            {
+                "question": "What are the advantages of GST over the previous tax system?",
+                "answer": "GST eliminates cascading taxes, simplifies compliance, and promotes a unified national market."
+            }
+        ]
+    },
+    {
+        "chapter": 2,
+        "questions": [
+            {
+                "question": "What was the purpose of the 101st Constitutional Amendment Act?",
+                "answer": "To introduce GST and create a unified indirect tax system in India."
+            },
+            {
+                "question": "What are the key articles introduced or amended by the 101st Amendment?",
+                "answer": "Articles 246A, 269A, and 279A were introduced or amended."
+            },
+            {
+                "question": "What role does Article 246A play in GST?",
+                "answer": "It provides concurrent powers to the Centre and States to legislate on GST."
+            },
+            {
+                "question": "Why were petroleum products kept outside the ambit of GST initially?",
+                "answer": "To ensure states' fiscal autonomy and prevent revenue losses."
+            },
+            {
+                "question": "What does Article 279A establish under the GST framework?",
+                "answer": "It establishes the GST Council to recommend GST-related matters."
+            },
+            {
+                "question": "Explain the concept of supply under Article 366.",
+                "answer": "It defines 'supply' as the provision of goods or services for consideration in the course of business."
+            },
+            {
+                "question": "What is the significance of the GST Compensation Cess provision?",
+                "answer": "It compensates states for revenue losses during the GST transition."
+            },
+            {
+                "question": "Which body decides the date for including petroleum products under GST?",
+                "answer": "The GST Council recommends the date."
+            },
+            {
+                "question": "What is the voting weight of the Central and State governments in GST Council decisions?",
+                "answer": "The Centre has a one-third vote weight, and States together have two-thirds."
+            },
+            {
+                "question": "What provisions ensure smooth dispute resolution under GST?",
+                "answer": "The GST Council decides on dispute resolution mechanisms."
+            }
+        ]
+    },
+    {
+        "chapter": 3,
+        "questions": [
+            {
+                "question": "What are the primary objectives of GST's levy and collection mechanism?",
+                "answer": "To ensure fair taxation and prevent tax evasion."
+            },
+            {
+                "question": "What is the taxable event under GST?",
+                "answer": "The supply of goods or services."
+            },
+            {
+                "question": "Which section of the CGST Act deals with the levy of GST?",
+                "answer": "Section 9 of the CGST Act."
+            },
+            {
+                "question": "What is the purpose of Integrated GST (IGST)?",
+                "answer": "To tax inter-state supplies and ensure seamless credit flow."
+            },
+            {
+                "question": "How is the GST rate decided for different goods and services?",
+                "answer": "The GST Council recommends the rates."
+            },
+            {
+                "question": "What is meant by the term 'composite supply' under GST?",
+                "answer": "A supply consisting of two or more goods/services naturally bundled and supplied together."
+            },
+            {
+                "question": "What is a 'mixed supply' under GST?",
+                "answer": "A supply of two or more goods/services for a single price, not naturally bundled."
+            },
+            {
+                "question": "Explain the concept of 'reverse charge' under GST.",
+                "answer": "It makes the recipient liable to pay tax instead of the supplier."
+            },
+            {
+                "question": "What is the GST rate applicable for exempt supplies?",
+                "answer": "The GST rate for exempt supplies is 0%."
+            },
+            {
+                "question": "How are goods and services classified under GST?",
+                "answer": "They are classified based on the HSN code for goods and SAC code for services."
+            }
+        ]
+    },
+    {
+        "chapter": 4,
+        "questions": [
+            {
+                "question": "What does 'Time of Supply' mean under GST?",
+                "answer": "It refers to the point in time when goods or services are considered supplied for tax purposes."
+            },
+            {
+                "question": "What determines the time of supply for goods under GST?",
+                "answer": "The earliest of invoice issuance, payment receipt, or goods removal/delivery."
+            },
+            {
+                "question": "How is the time of supply determined for services?",
+                "answer": "The earliest of invoice issuance, payment receipt, or service completion."
+            },
+            {
+                "question": "What happens if an advance payment is received for a supply?",
+                "answer": "The time of supply is the date of receipt of the advance payment."
+            },
+            {
+                "question": "How does the time of supply differ for reverse charge transactions?",
+                "answer": "It is the earlier of payment date or 60 days from the invoice date."
+            },
+            {
+                "question": "What is the time of supply for vouchers under GST?",
+                "answer": "The date of issue if supply is identifiable; otherwise, the date of redemption."
+            },
+            {
+                "question": "What is the default time of supply if no other rule applies?",
+                "answer": "The date of supply completion or receipt of payment, whichever is earlier."
+            },
+            {
+                "question": "What are the consequences of incorrect time of supply determination?",
+                "answer": "It may lead to interest and penalties for delayed tax payment."
+            },
+            {
+                "question": "What is the importance of the time of supply in GST compliance?",
+                "answer": "It determines the due date for tax payment and return filing."
+            },
+            {
+                "question": "What section of the CGST Act governs the time of supply for goods?",
+                "answer": "Section 12 of the CGST Act."
+            }
+        ]
+    },
+    {
+        "chapter": 5,
+        "questions": [
+            {
+                "question": "What does 'Place of Supply' mean under GST?",
+                "answer": "It refers to the location where a supply is considered to occur for tax purposes."
+            },
+            {
+                "question": "Why is determining the place of supply critical under GST?",
+                "answer": "It decides whether the supply is intra-state or inter-state and the applicable tax type (CGST/SGST or IGST)."
+            },
+            {
+                "question": "How is the place of supply determined for goods involving movement?",
+                "answer": "It is the location where the goods are delivered to the recipient."
+            },
+            {
+                "question": "What is the place of supply for services provided to a registered person?",
+                "answer": "The recipient's registered location."
+            },
+            {
+                "question": "How is the place of supply determined for immovable property-related services?",
+                "answer": "It is the location of the immovable property."
+            },
+            {
+                "question": "What is the place of supply for services involving transportation of goods?",
+                "answer": "The location where the goods are handed over for transportation."
+            },
+            {
+                "question": "How is the place of supply determined for telecommunication services?",
+                "answer": "By the billing address of the customer or the place of service use."
+            },
+            {
+                "question": "What is the place of supply for international transportation services?",
+                "answer": "The location of the recipient if they are registered; otherwise, the origin of transport."
+            },
+            {
+                "question": "What is the place of supply for banking and financial services?",
+                "answer": "The location of the recipient of the service."
+            },
+            {
+                "question": "How is the place of supply determined for services provided through e-commerce platforms?",
+                "answer": "It is the location of the recipient as per the platform records."
+            }
+        ]
+    }
+]

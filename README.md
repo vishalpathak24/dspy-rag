@@ -7,7 +7,7 @@ We needed domain specific Question and Answers. Due to limited time & resource i
 # NOTE
 
 Due to limited compute i have taken following assumptions
-1. Embedding model is local LLAMA-3.1-1B (As current `LlamaCppEmbeddings` works with `.bin` i have modified to work with latest `gguf` files)
+1. Embedding model is local LLAMA-3.1-1B (I needed to fix `LlamaCppEmbeddings` As current `LlamaCppEmbeddings` works with `.bin` i have modified to work with latest `gguf` files)
 2. For Inference have utilized current `Ollama` version.
 
 ## STEPS
